@@ -1,0 +1,10 @@
+com\space\controller\UpdateShipTest.class
+com\space\controller\AbstractTest.class
+com\space\controller\DeleteShipTest.class
+com\space\controller\GetAllTest$1.class
+com\space\controller\GetShipTest.class
+com\space\controller\utils\ShipInfoTest.class
+com\space\controller\CreateShipTest.class
+com\space\controller\GetAllTest.class
+com\space\controller\utils\TestsHelper.class
+com\space\controller\GetCountTest.class
